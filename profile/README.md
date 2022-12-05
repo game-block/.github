@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://docs.gameblock.link">
-      <img src="https://gameblock.link/wp-content/uploads/2022/09/Purple-and-Neon-Pink-E-sports-Illustrative-Gaming-and-Technology-Animated-Logo-4.png" width="383" height="383">
+      <img src="https://gameblock.link/wp-content/uploads/2022/09/FullLogo.b5c42e22-1.png" width="257.5" height="103">
   </a>
 </p>
 
