@@ -9,7 +9,7 @@
 </p>
 
 ## Rewards for miners, investors and players in multiple ways
-#### $GBLOCK comes to revolutionize the BSC crypto space trought the multiple rewards offered by Game Block ecosystem. <br />
+#### $GBLOCK comes to revolutionize the BSC crypto space trought the multiple rewards offered by GameBlock ecosystem. <br />
 
 ## The New Revolutionary project of BSC
 #### ✔️ Project reviewed, audited and secured <br />
