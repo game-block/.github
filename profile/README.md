@@ -12,9 +12,9 @@
 #### $GBLOCK comes to revolutionize the BSC crypto space trought the multiple rewards offered by Game Block ecosystem. <br />
 
 ## The New Revolutionary project of BSC
-✔️ Project reviewed, audited and secured <br />
-✔️ Experienced developers and gamers united <br />
-✔️ Community focused on tournaments and passive income <br />
+#### ✔️ Project reviewed, audited and secured <br />
+#### ✔️ Experienced developers and gamers united <br />
+#### ✔️ Community focused on tournaments and passive income <br />
 
 ## 🧐 Find us elsewhere
 
