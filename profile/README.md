@@ -9,8 +9,8 @@
 </p>
 
 ## Rewards for miners, investors and players in multiple ways
-#### $GBLOCK comes to revolutionize the BSC crypto space trought the multiple rewards offered by GameBlock ecosystem. <br />
-
+#### [$GBLOCK](https://pancakeswap.finance/swap?outputCurrency=0x43b687c6F2f2cAAcab5E9604e37Ac662954BAC4c) comes to revolutionize the BSC crypto space trought the multiple rewards offered by GameBlock ecosystem. <br />
+#### [0x43b687c6F2f2cAAcab5E9604e37Ac662954BAC4c](https://bscscan.com/address/0x43b687c6f2f2caacab5e9604e37ac662954bac4c#code)
 ## The New Revolutionary project of BSC
 #### ✔️ Project reviewed, audited and secured <br />
 #### ✔️ Experienced developers and gamers united <br />
