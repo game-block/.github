@@ -3,18 +3,13 @@
 [GameBlock](https://gameblock.link) is is the multi-reward blockchain ecosystem for gamers.
 
 <p align="center">
-  <a href="https://gameblock.link">
-      <img src="https://gameblock.link/wp-content/uploads/2022/09/Disseny-sense-titol-1.gif" width="383" height="215">
+  <a href="https://docs.gameblock.link">
+      <img src="https://gameblock.link/wp-content/uploads/2022/09/Purple-and-Neon-Pink-E-sports-Illustrative-Gaming-and-Technology-Animated-Logo-4.png" width="383" height="383">
   </a>
 </p>
 
 ## 🎮Rewards for miners, investors and players in multiple ways🚀
 $GBLOCK comes to revolutionize the BSC crypto space trought the multiple rewards offered by Game Block ecosystem. <br />
-<p align="center">
-  <a href="https://gameblock.link">
-      <img src="https://gameblock.link/wp-content/uploads/2022/09/Purple-and-Neon-Pink-E-sports-Illustrative-Gaming-and-Technology-Animated-Logo-4.png" width="180" height="180">
-  </a>
-</p>
 
 ## The New Revolutionary project of BSC
 ✔️ Project reviewed, audited and secured <br />
