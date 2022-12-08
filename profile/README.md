@@ -12,6 +12,7 @@
 #### [$GBLOCK](https://pancakeswap.finance/swap?outputCurrency=0x43b687c6F2f2cAAcab5E9604e37Ac662954BAC4c) comes to revolutionize the BSC crypto space trought the multiple rewards offered by GameBlock ecosystem. <br />
 #### GameBlock Token: [0x43b687c6F2f2cAAcab5E9604e37Ac662954BAC4c](https://bscscan.com/address/0x43b687c6f2f2caacab5e9604e37ac662954bac4c#code) <br />
 #### GameBlock NFT: [0x87D39BaA08AAC291683c3D122a042246e6c3c7AA](https://bscscan.com/address/0x87D39BaA08AAC291683c3D122a042246e6c3c7AA#code)
+#### TimeLock: [0x145aF2ebeEe0bB54a6731Ed790AFaAAedDe413dF](https://bscscan.com/address/0x145aF2ebeEe0bB54a6731Ed790AFaAAedDe413dF)
 ## The New Revolutionary project of BSC
 #### ✔️ Project reviewed, audited and secured <br />
 #### ✔️ Experienced developers and gamers united <br />
