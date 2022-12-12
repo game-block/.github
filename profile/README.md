@@ -13,6 +13,10 @@
 #### GameBlock Token: [0x43b687c6F2f2cAAcab5E9604e37Ac662954BAC4c](https://bscscan.com/address/0x43b687c6f2f2caacab5e9604e37ac662954bac4c#code) <br />
 #### GameBlock NFT: [0x87D39BaA08AAC291683c3D122a042246e6c3c7AA](https://bscscan.com/address/0x87D39BaA08AAC291683c3D122a042246e6c3c7AA#code)
 #### TimeLock: [0x145aF2ebeEe0bB54a6731Ed790AFaAAedDe413dF](https://bscscan.com/address/0x145aF2ebeEe0bB54a6731Ed790AFaAAedDe413dF)
+#### MasterChef: [0x6db5dd3bf025db90a1049628559369062d777676](https://bscscan.com/address/0x6db5dd3bf025db90a1049628559369062d777676)
+#### Draco Staking: [0x650A00D1C8001603ce4f3206546ab82439230066](https://bscscan.com/address/0x650A00D1C8001603ce4f3206546ab82439230066)
+#### Alpha Staking: [0xe3155546ba10dba0491bd60834e9122754396b11](https://bscscan.com/address/0xe3155546ba10dba0491bd60834e9122754396b11)
+#### Orion Staking: [0x96C54Cd17bEfdC619a761cA7E30646bbb922F8C6](https://bscscan.com/address/0x96C54Cd17bEfdC619a761cA7E30646bbb922F8C6)
 ## The New Revolutionary project of BSC
 #### ✔️ Project reviewed, audited and secured <br />
 #### ✔️ Experienced developers and gamers united <br />
